@@ -1,0 +1,6 @@
+REPORT: 21-025
+Model,1,2,3,4,5,6,7,8,9,10,%Correct,TotalCost,TotalTokens,AvgTokens/Q
+gpt-4o-mini,True,True,True,True,True,True,True,False,False,True,80.0%,$0.0826,137679,13767.9
+gemini-2.0-flash,True,True,True,True,True,True,True,False,True,True,90.0%,$0.0001,146930,14693.0
+llama3.2-3b,True,True,True,False,True,True,True,False,False,False,60.0%,$0.0558,139469,13946.9
+

@@ -1,0 +1,40 @@
+Question Number,Question,GPT-4 Mini Response,GPT-4 Mini Is Correct,GPT-4 Mini Cost,Gemini 2.0 Response,Gemini 2.0 Is Correct,Gemini 2.0 Cost,Llama 3.2 Response,Llama 3.2 Is Correct,Llama 3.2 Cost
+1,What organization published this audit report? ,The audit report was published by the State Auditor’s Office (SAO) of Texas.,True,0.0082458,The State Auditor’s Office.,True,1.4638999999999998e-05,The Texas State Auditor's Office published this audit report.,True,0.0055696
+2,What fiscal year does this audit cover? ,The audit covers fiscal year 2018.,True,0.008240999999999998,This audit covers fiscal year 2018 data reported to the Commission.,True,1.4648999999999998e-05,This audit covers the fiscal year 2018.,True,0.0055696
+3,What organization was audited? ,"The organization that was audited is Blue Cross Blue Shield of Texas, a Managed Care Organization.",True,0.0082446,"Blue Cross Blue Shield of Texas, a Managed Care Organization",True,1.4641e-05,"The organization that was audited is Blue Cross Blue Shield of Texas, a managed care organization that provides Medicaid STAR, CHIP, and STAR Kids programs.",True,0.005576800000000001
+4,What state program what audited? ,"The audit report focused on the **Medicaid STAR Kids program** provided by Blue Cross Blue Shield of Texas, a Managed Care Organization.",True,0.008250599999999999,"The state program that was audited is the Medicaid STAR Kids program, which is managed by Blue Cross Blue Shield of Texas (Health Plan).",True,1.4658e-05,"The state program audited is Medicaid, specifically the STAR Kids program, which provides health coverage to children with disabilities in two service areas: Travis County and Medicaid Rural Service Area - Central.",False,0.00558
+5,What state government agency manages the program? ,The program is managed by the Health and Human Services Commission (Commission) of Texas.,True,0.0082458,The Health and Human Services Commission (Commission) manages the program.,True,1.4646e-05,The Health and Human Services Commission (Commission) manages the Texas Medicaid program.,True,0.0055716
+6,How much did the MCO report in pharmacy expenses? ,"The Managed Care Organization (MCO), Blue Cross Blue Shield of Texas, reported $26.4 million in pharmacy expenses in its fiscal year 2018 financial statistical reports (FSRs).",True,0.008260199999999999,"The MCO, Blue Cross Blue Shield of Texas, reported **$26.4 million** in pharmacy expenses in its fiscal year 2018 FSRs.",True,1.4672e-05,"The MCO, Blue Cross Blue Shield of Texas, reported $26.4 million in pharmacy expenses in its fiscal year 2018 financial statistical reports (FSRs). However, this amount did not reflect the final amount paid to pharmacies, as it did not include the impact of funds that the Pharmacy Benefit Manager calculated the pharmacy must return post-payment.",True,0.0055948000000000005
+7,What is the name of the financial report submitted by the MCO? ,The financial report submitted by the Managed Care Organization (MCO) is called the Financial Statistical Report (FSR).,True,0.008253,The financial report submitted by the MCO is called the Financial Statistical Report (FSR).,True,1.4656999999999999e-05,"The financial report submitted by the MCO, Blue Cross Blue Shield of Texas, is referred to as the Financial Statistical Report (FSR).",True,0.0055796000000000005
+8,What was the amount of error identified pharmacy expenses reported by the MCO? ,"The audit report identified that the amount of pharmacy expenses reported by Blue Cross Blue Shield of Texas (the Managed Care Organization) was $26.4 million. However, this amount did not reflect the final amount paid to pharmacy providers because it did not include the funds that the Pharmacy Benefit Manager calculated the pharmacy must return post-payment. The report specifically mentioned a ""reconciliation amount"" of $8.2 million that was calculated for one contract tested, indicating that the reported pharmacy expenses were overstated by this amount. Therefore, the error identified in the pharmacy expenses reported by the MCO was related to the failure to account for the returned funds, which effectively reduced the final amount retained by pharmacies.",False,0.0083226,"The audit report indicates that the Blue Cross Blue Shield of Texas (Health Plan) reported $26.4 million in pharmacy expenses in its fiscal year 2018 FSRs. However, this amount did not reflect the final amount paid to pharmacy providers because it did not include the impact of funds that pharmacies were required to return to the Pharmacy Benefit Manager (PBM).
+
+The exact amount of error could not be definitively determined due to the following reasons:
+
+1.  **Lack of Transparency**: The PBM calculated a return of funds totaling $8.2 million for both Medicaid and non-Medicaid programs. However, the PBM combined multiple lines of business in its analysis and did not identify what portion of the calculated return of funds was specifically related to STAR Kids or its other Medicaid programs. The auditors were repeatedly denied access to the Pharmacy Benefit Manager’s complete analysis of pharmacy claims.
+2.  **Health Plan's Response**: The Health Plan claims that the PBM received a lower amount of $4,147,419 as Reconciliation Amount, and Texas Medicaid represents only 0.13% of the business subject to the Reconciliation Process.
+3.  **Auditor Follow-up Comment**: The auditors stand by their conclusions based on evidence provided during this audit.
+
+Despite the lack of exact quantification, the report indicates that pharmacy expenses were overstated due to the failure to account for returned funds, making the reported $26.4 million inaccurate.",False,1.4944e-05,"The amount of error identified in the pharmacy expenses reported by the MCO (Blue Cross Blue Shield of Texas) was $8.2 million. This amount was due to the Pharmacy Benefit Manager's year-end aggregation process, which resulted in the pharmacy provider being required to return funds to the Pharmacy Benefit Manager.",False,0.0055928
+9,What recommendation did the auditors provide to improve reporting accuracy?,"The auditors provided the following recommendations to improve reporting accuracy:
+
+1. **The Health Plan should work with the Commission** to ensure that its Pharmacy Benefit Manager’s practices are in compliance with the STAR Kids contract.
+
+2. **The Health Plan should report pharmacy expenses** based on the final amount paid to pharmacy providers.
+
+3. **The Commission should monitor MCOs** to verify:
+   - Compliance with its prohibition of spread pricing.
+   - Reported pharmacy expenses represent the final amount retained by pharmacies for dispensing and ingredient costs.",False,0.0082998,"The auditors provided the following recommendations to improve reporting accuracy:
+
+**To the Health Plan:**
+
+*   Work with the Commission to ensure that its Pharmacy Benefit Manager’s practices are in compliance with the STAR Kids contract.
+*   Report pharmacy expenses based on the final amount paid to pharmacy providers.
+
+**To the Commission:**
+
+*   Monitor MCOs to verify compliance with its prohibition of spread pricing.
+*   Verify reported pharmacy expenses represent the final amount retained by pharmacies for dispensing and ingredient costs.
+
+The auditor also recommended to the health plan to:
+*   Develop, document, and implement a process to review rejected encounters, correct coding errors, and resubmit rejected encounters to the Commission.",True,1.4777e-05,"The auditors recommended that the Health Plan should ""Report pharmacy expenses based on the final amount paid to pharmacy providers"" to improve reporting accuracy.",False,0.0055784
+10,Who was the project manager of this audit? ,"The project manager of this audit was Scott Labbe, CPA.",True,0.008244,"The project manager of this audit was Scott Labbe, CPA.",True,1.4646999999999999e-05,"The project manager for this audit was Scott Labbe, a Certified Public Accountant (CPA).",False,0.0055744

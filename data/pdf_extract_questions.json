@@ -1,0 +1,54 @@
+{
+    "21-025": [
+        {
+            "id": "1",
+            "question": "What organization published this audit report? ",
+            "answer": "State Auditor’s Office"
+        },
+        {
+            "id": "2",
+            "question": "What fiscal year does this audit cover? ",
+            "answer": "2018"
+        },
+        {
+            "id": "3",
+            "question": "What organization was audited? ",
+            "answer": "Blue Cross Blue Shield of Texas"
+        },
+        {
+            "id": "4",
+            "question": "What state program what audited? ",
+            "answer": "Medicaid STAR Kids Program"
+        },
+        {
+            "id": "5",
+            "question": "What state government agency manages the program? ",
+            "answer": "Health and Human Services Commission"
+        },
+        {
+            "id": "6",
+            "question": "How much did the MCO report in pharmacy expenses? ",
+            "answer": "$26.4 million"
+        },
+        {
+            "id": "7",
+            "question": "What is the name of the financial report submitted by the MCO? ",
+            "answer": "Financial Statistical Report"
+        },
+        {
+            "id": "8",
+            "question": "What was the amount of error identified pharmacy expenses reported by the MCO? ",
+            "answer": "Not able to determine"
+        },
+        {
+            "id": "9",
+            "question": "What recommendation did the auditors provide to improve reporting accuracy?",
+            "answer": "Report pharmacy expenses based on the final amount paid to pharmacy providers."
+        },
+        {
+            "id": "10",
+            "question": "Who was the project manager of this audit? ",
+            "answer": "Scott Labbe, CPA"
+        }
+    ]
+}
